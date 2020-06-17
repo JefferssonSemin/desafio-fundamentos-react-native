@@ -23,6 +23,12 @@
       "title": "Nome do produto 04",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 80
+    },
+    {
+      "title": "Teste",
+      "image_url": "https://avatars1.githubusercontent.com/u/36412487?s=460&u=b824c07024938382d92ee8955e40c2836e3c18b1&v=4",
+      "price": "234.99",
+      "id": "hEBuYtd"
     }
   ]
 }
